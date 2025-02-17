@@ -54,9 +54,9 @@ Now that you understand how to explore whether **variables are associated**, try
 ---
 
 ## 👨‍💻 Author
-💡 Created by **[Your Name]**  
-📧 Contact: **your.email@example.com**  
-🔗 LinkedIn: **[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)**  
+💡 Created by **Candace Grant**  
+📧 Contact: **aicoaching2025@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/candace215**  
 
 ---
 
