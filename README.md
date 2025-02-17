@@ -4,8 +4,6 @@ Here’s a **README.md** file incorporating **icons and markdown formatting** fo
 
 ---
 
-### **📘 README.md: Exploring Associations in Data**
-```markdown
 # 📊 Exploring Associations Between Variables
 
 In this lesson, we used **summary statistics** and **data visualization** tools to examine the relationship between **quantitative** and **categorical** variables.
@@ -64,14 +62,4 @@ Now that you understand how to explore whether **variables are associated**, try
 
 ## 📜 License
 This project is **open-source** under the MIT License.
-```
-
----
-
-### **What This README Includes**
-✅ **📌 Sections clearly marked with icons** for engagement.  
-✅ **📊 Simple explanations of statistical methods** used.  
-✅ **🔬 Next Steps** encouraging further exploration.  
-✅ **📂 Files section** explaining what’s in the repository.  
-✅ **📜 License and Author details** for documentation completeness.  
 
